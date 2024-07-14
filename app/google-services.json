@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293083892168",
+    "project_id": "apptryy-fa4ea",
+    "storage_bucket": "apptryy-fa4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293083892168:android:2d3f08f7fb88f977ff98fd",
+        "android_client_info": {
+          "package_name": "com.example.apptryy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6KeDC9FxT11TaZhnzbpJbyLigTBeF6DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
